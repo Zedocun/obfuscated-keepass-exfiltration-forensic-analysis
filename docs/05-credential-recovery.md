@@ -10,3 +10,6 @@ Steps performed:
 - Credential validation via KPCLI
 
 Recovered access confirmed successful forensic reconstruction.
+
+
+![KPCLI Validation](../assets/07-kpcli-validation.png)
