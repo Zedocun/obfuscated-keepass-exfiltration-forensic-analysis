@@ -1,3 +1,5 @@
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@Zedocun/from-390mb-of-obfuscated-traffic-to-recovered-credentials-a-forensic-reconstruction-4974b694d5ca)
+
 # Reconstructing Obfuscated KeePass Exfiltration from Network Traffic
 
 ## Overview
