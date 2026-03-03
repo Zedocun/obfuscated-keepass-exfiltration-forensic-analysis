@@ -10,3 +10,5 @@ Initial PCAP inspection via Wireshark revealed:
 GUI-based stream reconstruction proved inefficient due to dataset size.
 
 A decision was made to transition to CLI-based analysis using tshark.
+
+![Suspicious Ports](../assets/02-suspicious-ports.png)
