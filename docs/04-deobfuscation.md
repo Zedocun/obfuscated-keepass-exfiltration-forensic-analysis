@@ -13,3 +13,6 @@ Recovered artifacts:
 - KeePass database (.kdbx)
 
 Layered simple transformations were effective in concealing the payload.
+
+
+![XOR Script](../assets/05-xor-script.png)
