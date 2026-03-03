@@ -9,3 +9,6 @@ To reconstruct the payload:
 - Converted hex to binary using xxd
 
 This enabled reconstruction of a full exfiltrated dump without relying on GUI stream reassembly.
+
+
+![Large Stream](../assets/03-large-stream.png)
